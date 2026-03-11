@@ -14,7 +14,7 @@ Get proven prompts for:
 - Business Automation
 - And 400+ more...
 
-👉 https://payhip.com/b/7Z69y
+👉 https://payhip.com/OpenClawPro
 
 #AI #ChatGPT #Productivity #Entrepreneur
 ```
@@ -243,11 +243,11 @@ Get it here: https://payhip.com/b/7Z69y
 
 ## Product Links (Update with Payhip)
 
-- Main Store: https://payhip.com/b/7Z69y
-- AI Prompts Bundle: https://payhip.com/b/XXX
-- OpenClaw Troubleshooting Guide: https://payhip.com/b/XXX
-- OpenClaw Quick Fixes: https://payhip.com/b/XXX
-- Daily Handbook: https://payhip.com/b/XXX
+- **Main Store:** https://payhip.com/OpenClawPro
+- AI Prompts Bundle: https://payhip.com/OpenClawPro
+- OpenClaw Troubleshooting Guide: https://payhip.com/OpenClawPro
+- OpenClaw Quick Fixes: https://payhip.com/OpenClawPro
+- Daily Handbook: https://payhip.com/OpenClawPro
 
 ---
 
