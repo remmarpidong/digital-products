@@ -1,6 +1,6 @@
 # Ready to Post - Copy & Paste
 
-## Twitter/X - Post Now
+## Twitter/X - AI Prompts
 
 ```
 🔥 500+ AI Prompts for ChatGPT & Claude
@@ -13,9 +13,67 @@ Get proven prompts for:
 - Business Automation
 - And 400+ more...
 
-👉 https://payhip.com/OpenClawPro
+👉 https://payhip.com/b/7Z69y
 
 #AI #ChatGPT #Productivity #Entrepreneur
+```
+
+---
+
+## Twitter/X - OpenClaw Troubleshooting
+
+```
+🛠️ OpenClaw not working? I got you.
+
+Created the complete troubleshooting guide:
+
+✅ Gateway won't start? Fixed in 30 seconds
+✅ No replies? Check these first
+✅ Model errors? Quick solutions inside
+✅ Dashboard won't connect? Solved
+
+50+ fixes for common problems.
+
+#OpenClaw #AI #TechTips
+```
+
+---
+
+## Twitter/X - OpenClaw Daily
+
+```
+📖 Running OpenClaw daily?
+
+This handbook has you covered:
+
+✓ Morning health checks
+✓ Common commands
+✓ Automation workflows  
+✓ Remote access
+✓ Maintenance
+
+Your day-to-day companion.
+
+#OpenClaw #AIAssistant
+```
+
+---
+
+## Twitter/X - Quick Fixes
+
+```
+😰 OpenClaw broke again?
+
+One-page checklist to fix it fast:
+
+• Gateway issues → Commands to run
+• No replies → What to check
+• Model errors → Quick fixes
+• Dashboard → 60-second solution
+
+Bookmark this! 🔖
+
+#Troubleshooting #AI
 ```
 
 ---
@@ -25,41 +83,76 @@ Get proven prompts for:
 ```
 Just released: 500+ AI Prompts Bundle for entrepreneurs
 
-I've been using AI for my business and compiled my best prompts into one bundle.
-
 What's inside:
 - 80+ Social media prompts
 - 70+ Email marketing prompts
 - 90+ Content creation prompts
 - 75+ Sales & copywriting prompts
 
-Perfect for freelancers, marketers, and business owners.
+Perfect for freelancers & business owners.
 
-Get it here: https://payhip.com/OpenClawPro
-
-AMA about the prompts!
+Get it here: https://payhip.com/b/7Z69y
 ```
 
 ---
 
-## Reddit - r/notion
+## Reddit - r/openclawai
 
 ```
-My Notion Second Brain Template - Now Available
+📦 OpenClaw Resources for the Community
 
-After months of refining, I finally released my personal system:
+Hey OpenClaw users! Created some helpful resources:
 
-Features:
-- Daily notes with templates
-- Meeting notes
-- Reading list tracker
-- Weekly review system
-- Project dashboards
-- Tag-based organization
+1. **Troubleshooting Guide** - 50+ solutions for common issues
+2. **Quick Fixes Checklist** - One-page reference you can print
+3. **Daily Handbook** - Commands & workflows for daily use
+4. **Common Problems Solved** - 50+ direct fixes
 
-Works with Notion Free!
+Check them out! Link below 👇
 
-Get it here: https://payhip.com/OpenClawPro
+#OpenClaw #AI #OpenSource
+```
+
+---
+
+## Reddit - r/selfhosted
+
+```
+Self-host your AI assistant with OpenClaw
+
+Tired of cloud AI? Run it on your own machine:
+
+✅ Multiple channels (Telegram, WhatsApp, Discord)
+✅ Your own AI assistant
+✅ Runs 24/7
+✅ Full data control
+
+Perfect for privacy. Check it out:
+
+https://openclaw.ai
+
+#SelfHosted #AI #OpenSource
+```
+
+---
+
+## Reddit - r/ChatGPT
+
+```
+500+ Prompts That Actually Work
+
+Tested prompts for:
+
+📝 Content creation
+📧 Email marketing
+💰 Sales copy
+🛠️ Business automation
+
+Stop prompting wrong. Start getting results.
+
+https://payhip.com/b/7Z69y
+
+#PromptEngineering #ChatGPT
 ```
 
 ---
@@ -67,7 +160,7 @@ Get it here: https://payhip.com/OpenClawPro
 ## Next Posts to Create
 
 1. 📝 Notion Template
-2. 💼 Freelance Proposals
+2. 💼 Freelance Proposals  
 3. 🎁 Bundle Deal
 
 ---
