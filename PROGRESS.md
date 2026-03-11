@@ -10,6 +10,10 @@
 5. ✅ Wedding Planner - $19
 6. ✅ Course Templates - $29
 7. ✅ Instagram Templates - $19
+8. ✅ YouTube Tools - $19
+9. ✅ Email Templates - $24
+10. ✅ Podcast Templates - $19
+11. ✅ Twitter Growth Blueprint - $24
 8. ✅ YouTube Tools - $24
 9. ✅ Email Marketing Templates - $27
 
